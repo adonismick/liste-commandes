@@ -8,8 +8,8 @@ pertmet d'initialiser un repertoire
 pertmet d'ajouter ou de modifier un fichier dans le stagging
 
 ## git commit
-pertmet d'enregistrer les modification en local
-le message est important
+- pertmet d'enregistrer les modification en local
+- le message est important
 
 ## git push
 pertmet de pousser les modification en ligne
@@ -22,7 +22,7 @@ pertmet de pousser les modification en ligne
 pertmet de lister les modifications en local
 
 ## git branch
-pertmet de creer une branche
+permet de creer une branche
 
 ## git checkout
 - pertmet de passer d'une branche a une autre
