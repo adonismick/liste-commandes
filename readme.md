@@ -28,3 +28,6 @@
 - pertmet de passer d'une branche a une autre
 - permet de se deplacer d'une branche a une autre
 - avec l'option -b checkout crée la branche si elle n'existe pas
+
+## git pull
+- permet de recuperer en locale les modifications distant
